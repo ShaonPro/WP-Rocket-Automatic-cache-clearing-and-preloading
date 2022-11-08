@@ -5,13 +5,14 @@ WP Rocket’s automatic cache clearing system along with conditions (i.e): When 
 ### step 01 
 - Download rocket-clean-domain.php file. 
 - Upload the file(rocket-clean-domain.php) to your WordPress installation's root ( where wp-config.php and wp-load.php are located). Example (\public_html).
+- You can check this video to understand where to upload file [Check this Video](https://recordit.co/jbtM0WPfcw)
 
 
 
 ### Step 02
 - Set Up a Cron Job (When our website traffic are less)
 - Example: Everyday at 6 am 
-- Check the video how to setup corn job. [Check This Link](http://recordit.co/cl2YCoMCzu)
+- Check the video how to setup corn job. [Check This Video](http://recordit.co/cl2YCoMCzu)
 - Make sure the correct path to your new file rocket-clean-domain.php in your cron job settings.
 
 
