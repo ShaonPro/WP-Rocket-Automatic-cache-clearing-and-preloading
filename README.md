@@ -1,4 +1,4 @@
-# Automatic-cache-clearing-and-preloading
+# WP Rocket Automatic-cache-clearing-and-preloading
 WP Rocket’s automatic cache clearing system along with conditions (i.e): when website traffic is low and only HTML, Combined/minified CSS/JavaScript files.
 
 ## Solution: A
